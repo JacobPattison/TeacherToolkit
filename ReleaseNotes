@@ -1,4 +1,4 @@
-Teacher Toolkit Version Alpha 1.0
+Teacher Toolkit Version Alpha 1.1
 This version is an alpha pre-release for my Teacher Toolkit school project.
 
 This version includes:
@@ -8,6 +8,7 @@ This version includes:
 - Random Student Generator
 - Reward Point Counter
 - Period Calculator
+- Light and Dark mode
 
 No maximise or scale changes are available.
 The colour of highlighted buttons changes even if you don't select a new tab.
@@ -15,6 +16,8 @@ Scheduled features are as followed:
 - Seating Plan Generator
 - Login System
 - More changeable options in the settings menu
+- Whiteboard
+- Consequence Board and tracker
 
 If you have any requires or feedback please email: 18pattisonj@utcsheffield.org.uk
 To make sure your email is read put the subject of the email: TeacherToolkitFeedback
